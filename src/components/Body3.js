@@ -21,7 +21,7 @@ function Body3() {
                             <Card.Body>
                                 <Card.Title>Firmansyah</Card.Title>
                                 <Card.Text>
-                                    "Saya sangat bersyukur telah menghabiskan masa sekolah di SMK Ti Bazma. Pengalaman yang berharga dan ilmu yang diperoleh di sini akan selalu menjadi bagian tak terpisahkan dalam perjalanan hidup saya. Terima kasih kepada semua guru dan teman-teman yang telah mendukung dan menginspirasi saya selama ini!"
+                                    "Saya sangat bersyukur telah menghabiskan masa sekolah di SMK TI BAZMA. Pengalaman yang berharga dan ilmu yang diperoleh di sini akan selalu menjadi bagian tak terpisahkan dalam perjalanan hidup saya. Terima kasih kepada semua guru dan teman-teman yang telah mendukung dan menginspirasi saya selama ini!"
                                 </Card.Text>
                                 <Button variant="primary" href='https://www.instagram.com/fi_rmansyah5915/' className="mb-4">Kontak</Button>{' '}
                             </Card.Body>
@@ -35,7 +35,7 @@ function Body3() {
                             <Card.Body>
                                 <Card.Title>Fadhil Rabbani</Card.Title>
                                 <Card.Text>
-                                    "Saya memiliki pengalaman yang luar biasa selama bersekolah di SMK Ti Bazma! Guru-gurunya sangat berdedikasi dalam memberikan pembelajaran yang berkualitas dan lingkungan sekolah yang mendukung perkembangan siswa."
+                                    "Saya memiliki pengalaman yang luar biasa selama bersekolah di SMK TI BAZMA! Guru-gurunya sangat berdedikasi dalam memberikan pembelajaran yang berkualitas dan lingkungan sekolah yang mendukung perkembangan siswa."
                                 </Card.Text>
                                 <Button variant="primary" href='https://www.instagram.com/fadhil_one_/' className="mb-4">Kontak</Button>{' '}
                             </Card.Body>
@@ -49,7 +49,7 @@ function Body3() {
                             <Card.Body>
                                 <Card.Title>Ardian Arya Putra</Card.Title>
                                 <Card.Text>
-                                    "Selama saya bersekolah di SMK Ti Bazma, saya merasa sangat terbantu dengan fasilitas yang memadai dan dukungan dari para guru yang berdedikasi. Pengalaman belajar di sini benar-benar mempersiapkan saya untuk menghadapi tantangan di dunia nyata. Terima kasih SMK Ti Bazma atas segala pembelajaran dan kenangan yang berharga!"
+                                    "Selama saya bersekolah di SMK TI BAZMA, saya merasa sangat terbantu dengan fasilitas yang memadai dan dukungan dari para guru yang berdedikasi. Pengalaman belajar di sini benar-benar mempersiapkan saya untuk menghadapi tantangan di dunia nyata. Terima kasih SMK TI BAZMA atas segala pembelajaran dan kenangan yang berharga!"
                                 </Card.Text>
                                 <Button variant="primary" href='https://www.instagram.com/aaardnnn/' className="mb-4">Kontak</Button>{' '}
                             </Card.Body>

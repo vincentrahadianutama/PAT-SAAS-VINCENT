@@ -56,7 +56,7 @@ function Body4() {
                                 <img
                                     className="rounded-circle"
                                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc47L4-AlKEV41eSU5SO0llDbDPUvij8Lv1w&s"
-                                    alt="Third profile"
+                                    alt="Fourth profile"
                                 />
                                 <div>
                                     <h3>Muiz Ghifari</h3>
@@ -69,7 +69,7 @@ function Body4() {
                                 <img
                                     className="rounded-circle"
                                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLy4EqnErOjPOeKGOg7USeGE9_od_yoEn3A&s"
-                                    alt="Third profile"
+                                    alt="Fifth profile"
                                 />
                                 <div>
                                     <h3>Indra Sujitno</h3>
