@@ -80,7 +80,7 @@ function Body4() {
                     </Carousel>
                 </Col>
                 <Col md={6}>
-                    <h2>Kontak Kami</h2>
+                    <h1>Kontak </h1>
                     <Form>
                         <Form.Group controlId="formBasicName">
                             <Form.Label>Nama</Form.Label>
@@ -94,6 +94,7 @@ function Body4() {
                             <Form.Label>Pesan</Form.Label>
                             <Form.Control as="textarea" rows={3} placeholder="Masukkan pesan Anda" />
                         </Form.Group>
+                        <br></br>
                         <Button variant="primary" type="submit">
                             Kirim
                         </Button>

@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 
 function Footer() {
     return (
-        <footer className="footer mt-auto py-3">
+        <footer className="footer mt-auto py-3" style={{ boxShadow: '0px -5px 15px rgba(0, 0, 0, 0.1)' }}>
             <Container>
                 <Row>
                     <Col>

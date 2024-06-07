@@ -17,9 +17,9 @@ function Body2() {
                             <Card.Body>
                                 <Card.Title>Pertamina</Card.Title>
                                 <Card.Text>
-                                    PT Pertamina (Persero) adalah sebuah badan usaha milik negara Indonesia yang terutama bergerak di bidang minyak dan gas.
+                                    PT Pertamina (Persero) adalah sebuah badan usaha milik negara Indonesia yang terutama bergerak di bidang minyak dan gas. Pertamina berfokus pada upaya-upaya untuk memastikan ketersediaan energi nasional yang inklusif berdasarkan prinsip availability, accessibility, affordability, acceptability dan sustainability
                                 </Card.Text>
-                                <Button variant="primary" href='https://www.pertamina.com/'>Info</Button>
+                                <Button variant="primary" href='https://www.pertamina.com/'>Info selengkapnya</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -31,7 +31,7 @@ function Body2() {
                                 <Card.Text>
                                     Universitas Pertamina merupakan wujud kontribusi PT Pertamina (Persero) kepada masyarakat dengan semangat menjadi perguruan tinggi berkelas dunia di bidang bisnis dan teknologi energi.
                                 </Card.Text>
-                                <Button variant="primary" href='https://universitaspertamina.ac.id/'>Info</Button>
+                                <Button variant="primary" href='https://universitaspertamina.ac.id/'>Info selengkapnya</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -43,22 +43,11 @@ function Body2() {
                                 <Card.Text>
                                     Elnusa adalah bagian dari afiliasi Pertamina, pemegang saham pengendali Elnusa memberikan konstribusi yang sangat besar atas keberadaan Elnusa saat ini. Elnusa memiliki 40 tahun lebih pengalaman di industri jasa migas dengan klien baik perusahaan nasional maupun internasional.
                                 </Card.Text>
-                                <Button variant="primary" href='https://www.elnusa.co.id/'>Info</Button>
+                                <Button variant="primary" href='https://www.elnusa.co.id/'>Info selengkapnya</Button>
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col md={6} lg={4} className="mb-4">
-                        <Card>
-                            <Card.Img variant="top" src="https://smktibazma.sch.id/static/media/tugu-mandiri-logo.8d36408c969d0f8c5dec.png" style={{ height: '150px', width: 'auto', margin: 'auto', paddingTop: '20px' }} />
-                            <Card.Body>
-                                <Card.Title>Tugu Mandiri</Card.Title>
-                                <Card.Text>
-                                    Tugu Insurance merupakan perusahaan asuransi umum yang berkantor pusat di Jakarta. Dilihat berdasarkan jumlah anggaran dasar perusahaan, Tugu Insurance memiliki ruang lingkup kegiatan di sektor industri asuransi umum, reasuransi, dan bisnis syariah.
-                                </Card.Text>
-                                <Button variant="primary" href='http://www.tugu-digitalassistant.com/'>Info</Button>
-                            </Card.Body>
-                        </Card>
-                    </Col>
+                    
                 </Row>
             </Container>
         </div>
