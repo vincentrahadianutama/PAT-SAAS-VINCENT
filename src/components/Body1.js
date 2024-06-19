@@ -2,7 +2,6 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Image from 'react-bootstrap/Image';
 import Button from 'react-bootstrap/Button';
 
 function Body1() {
@@ -17,7 +16,9 @@ function Body1() {
                     <Button variant="primary" href='https://smktibazma.sch.id/about'>Info selengkapnya</Button>{' '}
                 </Col>
                 <Col>
-                    <Image src="https://smktibazma.sch.id/static/media/hero-1.2803f83852406277b6cd.jpg" fluid style={{ height: '300px', width: '800px' }} />
+                    <div className="embed-responsive embed-responsive-16by9">
+                        <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/UPubaRIRWkA?si=N3ksNWLosVSZISk" allowFullScreen title="Video SMK TI BAZMA" width={570} height={300}></iframe>
+                    </div>
                 </Col>
             </Row>
         </Container>
